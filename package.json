@@ -1,7 +1,7 @@
 {
   "name": "hubot-qwe",
   "description": "A hubot script that does the things",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "jiunjiun <quietmes@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
