@@ -1,16 +1,16 @@
 {
   "name": "hubot-qwe",
   "description": "A hubot script that does the things",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "author": "jiunjiun <quietmes@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-qwe.git"
+    "url": "git://github.com/jiunjiun/hubot-qwe.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-qwe/issues"
+    "url": "https://github.com/jiunjiun/hubot-qwe/issues"
   },
   "dependencies": {},
   "peerDependencies": {
