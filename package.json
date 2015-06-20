@@ -1,7 +1,7 @@
 {
   "name": "hubot-qwe",
   "description": "A hubot script that does the things",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": {
     "name": "jiunjiun",
     "email": "quietmes@gmail.com"
@@ -20,7 +20,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "hubot": "2.x"
+    "hubot": "2.x",
+    "cli-table": "0.3.1"
   },
   "devDependencies": {
     "hubot": "2.x",
