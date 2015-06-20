@@ -1,10 +1,16 @@
 {
   "name": "hubot-qwe",
   "description": "A hubot script that does the things",
-  "version": "1.0.1",
-  "author": "jiunjiun <quietmes@gmail.com>",
+  "version": "1.0.3",
+  "author": {
+    "name": "jiunjiun",
+    "email": "quietmes@gmail.com"
+  },
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jiunjiun/hubot-qwe.git"
@@ -17,21 +23,46 @@
     "hubot": "2.x"
   },
   "devDependencies": {
-    "chai": "^2.1.1",
-    "coffee-script": "1.6.3",
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-mocha-test": "~0.12.7",
-    "grunt-release": "~0.11.0",
     "hubot": "2.x",
-    "matchdep": "~0.3.0",
-    "mocha": "^2.1.0",
-    "sinon": "^1.13.0",
-    "sinon-chai": "^2.7.0"
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
   },
   "main": "index.coffee",
   "scripts": {
     "test": "grunt test"
-  }
+  },
+  "gitHead": "cc8072bcf428ab7d78f97c761da81ef8ac493a77",
+  "homepage": "https://github.com/hubot-scripts/hubot-youtube#readme",
+  "_id": "hubot-youtube@1.0.0",
+  "_shasum": "3dcbd80a2a516233c9e4abfae7d84053b65e6f86",
+  "_from": "hubot-youtube@1.0.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "technicalpickles",
+    "email": "josh@technicalpickles.com"
+  },
+  "maintainers": [
+    {
+      "name": "technicalpickles",
+      "email": "josh@technicalpickles.com"
+    },
+    {
+      "name": "michaelansel",
+      "email": "npm@anselcomputers.com"
+    }
+  ],
+  "dist": {
+    "shasum": "3dcbd80a2a516233c9e4abfae7d84053b65e6f86",
+    "tarball": "http://registry.npmjs.org/hubot-youtube/-/hubot-youtube-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hubot-youtube/-/hubot-youtube-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
 }
